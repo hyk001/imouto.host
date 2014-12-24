@@ -118,6 +118,13 @@
 72.21.81.40 fc09.deviantart.net
 #edgecast
 #google系列
+173.194.120.88 imap.google.com
+173.194.120.88 newsstand.googleusercontent.com
+173.194.120.88 producer.googleusercontent.com
+173.194.120.88 inputtools.google.com
+173.194.120.88 inbox.google.com
+173.194.120.88 img0.gmodules.com
+173.194.120.88 santatracker.google.com
 173.194.120.88 doc-0g-3k-docs.googleusercontent.com
 173.194.120.88 gweb-letour.storage.googleapis.com
 173.194.120.88 cjxlist1.googlecode.com
@@ -200,6 +207,31 @@
 46.51.216.186 help.duckduckgo.com
 96.227.124.36 flash.duckduckgo.com
 #DDK
+#WordPress
+66.155.11.243	wordpress.com
+68.232.44.111	s0.wp.com
+68.232.44.111	s1.wp.com
+68.232.44.111	s2.wp.com
+68.232.44.111	s.wordpress.org
+68.232.44.111	s.wordpress.com
+68.232.44.111	s1.wordpress.com
+68.232.44.111	s2.wordpress.com
+68.232.44.111	s3.wordpress.com
+68.232.44.119	s.stats.wordpress.com
+66.155.9.238	lb.wordpress.com
+66.155.9.238	zh.wordpress.com
+66.155.9.238	zh-sg.wordpress.com
+66.155.9.238	zh-cn.wordpress.com
+66.155.9.238	dashboard.wordpress.com
+66.155.9.238	forums.wordpress.com
+66.155.9.238	en.forums.wordpress.com
+66.155.9.238	en.blog.wordpress.com
+66.155.9.238	stats.wordpress.com
+66.155.9.238	wpcom.wordpress.com
+66.155.9.238	lucifr.wordpress.com
+192.0.81.250 	botd2.wordpress.com
+192.0.81.250 	r-login.wordpress.com
+#WordPress
 #AD
 127.0.0.1 www.duhang123.com
 127.0.0.1 duhang123.com
@@ -2523,7 +2555,7 @@
 173.194.120.88 www.webmproject.org
 173.194.120.88 golang.org
 173.194.120.88 play.golang.org
-64.233.168.118 feeds.feedburner.com
+173.194.120.88 feeds.feedburner.com
 #Google other↑
 #Google Play↓
 #203.208.46.89 r1---sn-a5m7znee.c.android.clients.google.com
