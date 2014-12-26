@@ -19,6 +19,7 @@
 68.232.45.109 df6a.https.cdn.softlayer.net
 #mozilla
 #edgecast
+68.232.35.38 cdn2.editmysite.com
 68.232.44.96 a-v2.sndcdn.com
 93.184.216.127 s.w.org
 68.232.35.96 cdn.www.xda-developers.com
@@ -151,17 +152,14 @@
 216.58.220.100 impactchallenge.withgoogle.com
 74.125.204.121 s3.feedly.com
 74.125.206.121 s3.feedly.com
+192.184.89.121 hosts.huhamhire.com
 74.125.132.82 huhamhire-hosts.googlecode.com
+199.27.79.133 huhamhire.github.com
 216.58.220.100 wiki.huhamhire-hosts.googlecode.com
 216.58.220.100 cjxlist1.googlecode.com
 216.58.220.100 script.googleusercontent.com
 #google系列
 #其他
-192.184.89.121 hosts.huhamhire.com
-199.27.79.133 huhamhire.github.com
-124.155.222.225 fbcdn-sphotos-g-a.akamaihd.net
-69.171.230.5 3-edge-chat.facebook.com
-70.96.0.72 fbstatic-a.akamaihd.net
 192.30.252.140 gist.github.com
 23.235.43.133 gist-assets.github.com
 69.22.163.234 a248.e.akamai.net
@@ -1482,24 +1480,31 @@
 #Twitter END
 
 #Facebook START
+124.155.222.225 fbcdn-sphotos-g-a.akamaihd.net
+69.171.230.5 1-edge-chat.facebook.com
+69.171.230.5 2-edge-chat.facebook.com
+69.171.230.5 3-edge-chat.facebook.com
+69.171.230.5 4-edge-chat.facebook.com
+210.61.248.240 fbstatic-a.akamaihd.net
+31.13.93.3 l.facebook.com
 127.0.0.1 ads.ak.facebook.com
 127.0.0.1 creative.ak.facebook.com
 127.0.0.1 creative.ak.fbcdn.net
-173.252.120.6 facebook.com
-173.252.74.22 www.facebook.com
-173.252.74.22 m.facebook.com
-69.171.237.25 d.facebook.com
-69.171.237.25 touch.facebook.com
-69.171.237.25 zh-CN.facebook.com
-69.171.237.25 ldap.thefacebook.com
-69.171.237.25 graph.facebook.com
-69.171.237.25 upload.facebook.com
-69.171.237.25 vupload.facebook.com
-69.171.237.25 developers.facebook.com
-69.171.237.25 connect.facebook.net
-69.171.237.25 creativeupload.facebook.com
-69.171.237.25 bigzipfiles.facebook.com
-69.171.237.25 star.facebook.com
+31.13.90.33 facebook.com
+31.13.90.33 www.facebook.com
+31.13.90.33 m.facebook.com
+31.13.90.33 d.facebook.com
+31.13.90.33 touch.facebook.com
+31.13.90.33 zh-CN.facebook.com
+31.13.90.33 ldap.thefacebook.com
+31.13.90.33 graph.facebook.com
+31.13.90.33 upload.facebook.com
+31.13.90.33 vupload.facebook.com
+31.13.90.33 developers.facebook.com
+31.13.90.33 connect.facebook.net
+31.13.90.33 creativeupload.facebook.com
+31.13.90.33 bigzipfiles.facebook.com
+31.13.90.33 star.facebook.com
 69.171.235.13 bigzipfiles.facebook.com
 31.13.82.32 api.facebook.com
 173.252.120.8 b-api.facebook.com
@@ -1510,7 +1515,7 @@
 31.13.82.32 secure.facebook.com
 31.13.82.32 orcart.facebook.com
 31.13.82.32 attachments.facebook.com
-69.171.237.25 vpn.tfbnw.net
+31.13.90.33 vpn.tfbnw.net
 61.213.189.113 fbcdn.net
 61.213.189.113 s-hprofile-sf2p.fbcdn.net
 61.213.189.114 profile.ak.fbcdn.net
