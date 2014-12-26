@@ -151,15 +151,14 @@
 216.58.220.100 impactchallenge.withgoogle.com
 74.125.204.121 s3.feedly.com
 74.125.206.121 s3.feedly.com
-192.184.89.121 hosts.huhamhire.com
 74.125.132.82 huhamhire-hosts.googlecode.com
-199.27.79.133 huhamhire.github.com
-173.194.123.14 wiki.huhamhire-hosts.googlecode.com
-173.194.123.14 cjxlist1.googlecode.com
-74.125.68.121 javascript-blocker.toggleable.com
+216.58.220.100 wiki.huhamhire-hosts.googlecode.com
+216.58.220.100 cjxlist1.googlecode.com
 216.58.220.100 script.googleusercontent.com
 #google系列
 #其他
+192.184.89.121 hosts.huhamhire.com
+199.27.79.133 huhamhire.github.com
 124.155.222.225 fbcdn-sphotos-g-a.akamaihd.net
 69.171.230.5 3-edge-chat.facebook.com
 70.96.0.72 fbstatic-a.akamaihd.net
@@ -1290,9 +1289,9 @@
 #ccFox.info END
 
 #12306 START
-61.157.124.251 dynamic.12306.cn
-122.228.243.22 dynamic.12306.cn
-61.183.42.94 dynamic.12306.cn
+#61.157.124.251 dynamic.12306.cn
+#122.228.243.22 dynamic.12306.cn
+#61.183.42.94 dynamic.12306.cn
 #12306 END
 
 #ProjectH START
@@ -1596,10 +1595,10 @@
 #Flickr END
 
 #imgur START
-103.245.222.193 imgur.com
-103.245.222.193 www.imgur.com
-103.245.222.193 i.imgur.com
-103.245.222.193 s.imgur.com
+185.31.17.193 imgur.com
+185.31.17.193 www.imgur.com
+185.31.17.193 i.imgur.com
+185.31.17.193 s.imgur.com
 #imgur END
 
 #DuckDuckGo START
