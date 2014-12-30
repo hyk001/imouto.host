@@ -121,21 +121,21 @@
 #edgecast
 #google系列
 216.58.220.100    www.androidify.com
-216.58.220.100    gmail-pop.l.google.com
-216.58.220.100    pop.googlemail.com
-216.58.220.100    googlemail-pop.l.google.com
-216.58.220.100    smtp.gmail.com
-216.58.220.100    gmail-smtp-msa.l.google.com
-216.58.220.100    gmail-smtp.l.google.com
-216.58.220.100    gmail-smtp-in.l.google.com
-216.58.220.100    gmr-smtp-in.l.google.com
-216.58.220.100    smtp.googlemail.com
-216.58.220.100    googlemail-smtp.l.google.com
-216.58.220.100    imap.gmail.com
-216.58.220.100    gmail-imap.l.google.com
-216.58.220.100    imap.googlemail.com
-216.58.220.100    googlemail-imap.l.google.com
-216.58.220.100    pop.gmail.com
+64.233.176.108    gmail-pop.l.google.com
+64.233.176.108    pop.googlemail.com
+64.233.176.108    googlemail-pop.l.google.com
+64.233.176.108    smtp.gmail.com
+64.233.176.108    gmail-smtp-msa.l.google.com
+64.233.176.108    gmail-smtp.l.google.com
+64.233.176.108    gmail-smtp-in.l.google.com
+64.233.176.108    gmr-smtp-in.l.google.com
+64.233.176.108    smtp.googlemail.com
+64.233.176.108    googlemail-smtp.l.google.com
+64.233.176.108    imap.gmail.com
+64.233.176.108    gmail-imap.l.google.com
+64.233.176.108    imap.googlemail.com
+64.233.176.108    googlemail-imap.l.google.com
+64.233.176.108    pop.gmail.com
 216.58.220.100 newsstand.googleusercontent.com
 216.58.220.100 producer.googleusercontent.com
 216.58.220.100 inputtools.google.com
