@@ -175,6 +175,8 @@
 216.58.220.100 script.googleusercontent.com
 #google系列
 #其他
+54.231.232.8 s3-us-west-1.amazonaws.com
+54.231.232.8 s3.amazonaws.com
 192.30.252.140 gist.github.com
 23.235.43.133 gist-assets.github.com
 69.22.163.234 a248.e.akamai.net
