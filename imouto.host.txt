@@ -1621,10 +1621,10 @@
 #Flickr END
 
 #imgur START
-185.31.17.193 imgur.com
-185.31.17.193 www.imgur.com
-185.31.17.193 i.imgur.com
-185.31.17.193 s.imgur.com
+23.235.47.193 imgur.com
+23.235.47.193 www.imgur.com
+23.235.47.193 i.imgur.com
+23.235.47.193 s.imgur.com
 #imgur END
 
 #DuckDuckGo START
