@@ -179,7 +179,7 @@
 54.231.237.18 s3-us-west-2.amazonaws.com
 54.231.66.24  s3.amazonaws.com
 192.30.252.140 gist.github.com
-23.235.43.133 gist-assets.github.com
+103.245.222.133 gist-assets.github.com
 69.22.163.234 a248.e.akamai.net
 91.121.84.91 archive.today
 91.121.84.91 archive.is
