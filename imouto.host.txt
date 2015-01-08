@@ -19,6 +19,7 @@
 68.232.45.109 df6a.https.cdn.softlayer.net
 #mozilla
 #edgecast
+72.21.91.17 p4.zdassets.com
 68.232.35.38 cdn2.editmysite.com
 68.232.44.96 a-v2.sndcdn.com
 93.184.216.127 s.w.org
@@ -3127,19 +3128,31 @@
 #Wikipedia END
 
 #Dropbox START
-108.160.165.147 dropbox.com
-108.160.165.147 www.dropbox.com
-108.160.166.144 api.dropbox.com
-108.160.166.126 api-notify.dropbox.com
-54.243.226.170 api-content.dropbox.com
+108.160.166.142 support.dropbox.com
+108.160.166.142 live.dropbox.com
+108.160.166.142 opensource.dropbox.com
+108.160.166.142 linux.dropbox.com
+108.160.166.142 texter.dropbox.com
+108.160.166.142 dropbox.com
+108.160.166.142 www.dropbox.com
+108.160.167.19 api.dropbox.com
+108.160.161.147 api-notify.dropbox.com
+23.21.42.54 api-content.dropbox.com
 108.160.166.61 api-d.dropbox.com
-108.160.166.140 client-lb.dropbox.com
-108.160.172.65 block.dropbox.com
-108.160.165.253 d.dropbox.com
-107.20.134.222 dl.dropbox.com
+108.160.166.61 client-lb.dropbox.com
+108.160.172.1 block.dropbox.com
+108.160.166.61 d.dropbox.com
+23.21.85.34 dl.dropbox.com
 54.235.132.16 dl.dropboxusercontent.com
-107.20.134.222 dl-web.dropbox.com
-23.21.206.219 forums.dropbox.com
+50.16.201.65 dl-web.dropbox.com
+54.230.111.10 forums.dropbox.com
+104.218.200.37 www.dropboxforum.com
+54.243.246.143 photos-1.dropbox.com 
+54.243.246.143 photos-2.dropbox.com 
+54.243.246.143 photos-3.dropbox.com 
+54.243.246.143 photos-4.dropbox.com 
+54.243.246.143 photos-5.dropbox.com 
+54.243.246.143 photos-6.dropbox.com 
 108.160.165.211 notify1.dropbox.com
 108.160.165.211 notify2.dropbox.com
 108.160.165.211 notify3.dropbox.com
