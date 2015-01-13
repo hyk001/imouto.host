@@ -220,6 +220,7 @@
 203.84.197.27 api.flickr.com
 #flickr
 #DDK
+46.51.216.186 images.duckduckgo.com
 46.51.216.186 duckduckgo.com
 46.51.216.186 icons.duckduckgo.com
 46.51.216.186 help.duckduckgo.com
