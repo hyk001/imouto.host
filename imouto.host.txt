@@ -1,20 +1,34 @@
+#坑爹宽带
+198.41.209.27  zippy.gfycat.com
+198.41.208.126 www.redditstatic.com
+104.16.107.25  b.thumbs.redditmedia.com
+202.6.244.162  pics.dmm.co.jp
+207.244.64.94 i.minus.com
+207.244.64.94  i5.minus.com
+61.55.189.227  www.v2ex.com
+23.251.121.135 cdn.v2ex.co
+183.60.90.82 i.v2ex.co
+23.239.6.9 cdn.awwni.me
+74.125.29.194 www.google.com 
+#坑爹宽带
 #mozilla
-68.232.34.191 addons.cdn.mozilla.net
-68.232.34.191 mozorg.cdn.mozilla.net
-68.232.34.191 developer.cdn.mozilla.net
-68.232.34.191 fhr.cdn.mozilla.net
-68.232.34.191 support.cdn.mozilla.net
-68.232.34.191 marketplace.cdn.mozilla.net
-68.232.34.191 air.cdn.mozilla.net
-68.232.34.191 activations.cdn.mozilla.net
-68.232.34.191 cdn.mozilla.net
-68.232.34.191 download-installer.cdn.mozilla.net
-68.232.34.191 getpersonas-cdn.mozilla.net
-68.232.34.191 snippets.cdn.mozilla.net
-68.232.34.191 telemetry-experiment.cdn.mozilla.net
-68.232.34.191 code.cdn.mozilla.net
-68.232.34.191 videos.cdn.mozilla.net
-68.232.34.191 glow.cdn.mozilla.net
+117.18.232.191 addons.cdn.mozilla.net
+117.18.232.191 mozorg.cdn.mozilla.net
+117.18.232.191 developer.cdn.mozilla.net
+117.18.232.191 fhr.cdn.mozilla.net
+117.18.232.191 support.cdn.mozilla.net
+117.18.232.191 marketplace.cdn.mozilla.net
+117.18.232.191 air.cdn.mozilla.net
+117.18.232.191 activations.cdn.mozilla.net
+117.18.232.191 cdn.mozilla.net
+117.18.232.191 download-installer.cdn.mozilla.net
+117.18.232.191 getpersonas-cdn.mozilla.net
+117.18.232.191 snippets.cdn.mozilla.net
+117.18.232.191 telemetry-experiment.cdn.mozilla.net
+117.18.232.191 code.cdn.mozilla.net
+117.18.232.191 videos.cdn.mozilla.net
+117.18.232.191 glow.cdn.mozilla.net
+117.18.232.133 download.cdn.mozilla.net
 117.18.237.29 ocsp.digicert.com
 68.232.45.109 df6a.https.cdn.softlayer.net
 #mozilla 
@@ -66,14 +80,14 @@
 192.0.77.2 i2.wp.com
 72.21.91.111 s0.wp.com
 72.21.91.111 s1.wp.com
-117.18.232.133 edgecastcdn.net
-117.18.232.133 wac.83A1.edgecastcdn.net
-117.18.232.133 www.edgecastcdn.net
+117.18.232.191 edgecastcdn.net
+117.18.232.191 wac.83A1.edgecastcdn.net
+117.18.232.191 www.edgecastcdn.net
 110.232.178.193 www.edgecast.com
 110.232.178.193 edgecast.com
 110.232.178.193 small.edgecast.com
 110.232.178.82 www.speedtest.net
-117.18.232.133 c.speedtest.net
+117.18.232.191 c.speedtest.net
 110.232.178.146 www.deviantart.com
 110.232.178.146 deviantart.com
 72.21.91.8 www.da-files.com
@@ -363,6 +377,7 @@
 203.208.49.176 translate.google.cn
 203.208.49.176 www.google.cn
 203.208.49.176 www.gstatic.cn
+203.208.48.133 fonts.googleapis.com
 #google中国服务器
 #+BEGIN
 #+UPDATE_TIME 2014-10-28 18:44:00
