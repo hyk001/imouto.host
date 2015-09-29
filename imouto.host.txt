@@ -1,5 +1,4 @@
 #坑爹宽带#
-50.7.101.10 img.doumitemo.com
 174.129.21.158 pontoon.mozilla.org
 222.175.114.218 static.cnbetacdn.com
 104.237.154.90 bbs.north-plus.net
